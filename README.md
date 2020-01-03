@@ -1,6 +1,6 @@
 # Selby-Bikeshare-Project
 #This project code is to import US bike share data and answer interesting questions about it by computing descriptive statistics.
-Python Script to Explore US Bikeshare Data
+Python Script to Explore US Bikeshare Data which has been given to analyze all Data
 
 This Python script is written by Selby Abraham from Ghana for Project 2 Udacity's  Nanodegree (DAND) and is used to explore data related to bike share systems for Chicago, New York City, and Washington. It imports data from csv files and compute descriptive statistics from the data. It also takes in users' raw input to create an interactive experience in the terminal to present these statistics.
 How to run the script
